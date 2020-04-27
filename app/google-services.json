@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904235738426",
+    "firebase_url": "https://leadoapp.firebaseio.com",
+    "project_id": "leadoapp",
+    "storage_bucket": "leadoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904235738426:android:434691fc222b0eff90dc03",
+        "android_client_info": {
+          "package_name": "com.example.leadoappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904235738426-4ppi144btv8v2sg0q9lt858ckcoj32jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leadoappdemo",
+            "certificate_hash": "3738fcbbfe2e5eb1ee60b4423308e540c44eef35"
+          }
+        },
+        {
+          "client_id": "904235738426-kg41ki8lge63vv3jujpln2s48r10hps1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSRPnFilYxgtEIKsbOherEqQE16rysLbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904235738426-kg41ki8lge63vv3jujpln2s48r10hps1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
