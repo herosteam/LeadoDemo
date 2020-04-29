@@ -12,13 +12,17 @@
         <activity android:name=".ui.CongratulationsActivity"></activity>
         <activity android:name=".ui.SelectedLessonActivity" />
         <activity android:name=".ui.LessonsListActivity" />
-        <activity android:name=".ui.HomeActivity" />
-        <activity android:name=".ui.WelcomeActivity">
+
+        <activity android:name=".ui.HomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.WelcomeActivity">
+
         </activity>
     </application>
 
