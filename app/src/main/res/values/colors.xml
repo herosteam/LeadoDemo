@@ -8,5 +8,7 @@
     <color name="darkBlue">#35ccb1</color>
     <color name="customdark">#1f314a</color>
     <color name="textColor">#1f314a</color>
+    <color name="colorOffline">#b8b8b8</color>
+    <color name="colorOnline">#2e7d32</color>
 
 </resources>
