@@ -56,4 +56,7 @@ dependencies {
     implementation 'com.google.android.exoplayer:exoplayer-dash:2.9.6'
     implementation 'com.google.android.exoplayer:exoplayer-ui:2.9.6'
     implementation 'com.google.android.exoplayer:exoplayer-core:2.9.6'
+
+
+    implementation 'com.google.android.exoplayer:exoplayer:2.6.1'
 }
