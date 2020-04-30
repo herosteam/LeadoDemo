@@ -7,4 +7,6 @@
     <color name="customBlue2">#60ebe4</color>
     <color name="darkBlue">#35ccb1</color>
     <color name="customdark">#1f314a</color>
+    <color name="textColor">#1f314a</color>
+
 </resources>
