@@ -6,21 +6,21 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
 
-    <ImageView
+    <ImageButton
         android:id="@+id/iV_back"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:layout_margin="20dp"
-        android:src="@drawable/ic_back"
+        android:background="@drawable/ic_back"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 
-    <ImageView
+    <ImageButton
         android:id="@+id/iV_more"
         android:layout_width="20dp"
         android:layout_height="20dp"
-        android:src="@drawable/ic_more"
+        android:background="@drawable/ic_more"
         android:layout_margin="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
